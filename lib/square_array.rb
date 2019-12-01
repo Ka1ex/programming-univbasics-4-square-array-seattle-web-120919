@@ -7,4 +7,5 @@ def square_array(array)
     square_array.push(square_root)
     counter += 1
   end
+  square_array
 end
