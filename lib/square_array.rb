@@ -6,4 +6,5 @@ def square_array(array)
     square_root = array[counter] * array[counter]
     new_array.push(square_root)
     counter += 1
+  end
 end
